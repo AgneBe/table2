@@ -10,7 +10,6 @@ table {
     font-size: 180%;
     font-family: 'Open Sans', sans-serif;
 }
-
 th, td {
     border: 3px solid white;
     padding: 1rem;
@@ -19,11 +18,9 @@ th, td {
 thead {
     background-color: rgb(146, 26, 110);
 }
-
 tbody tr:nth-of-type(even) {
     background-color: rgb(158, 79, 142);
 }  
-
 tbody tr:nth-of-type(odd) {
     background-color: rgb(238, 125, 216);
 }
